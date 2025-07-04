@@ -115,3 +115,33 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">Made calendars more gorgeous</mark>
+
+### Version 0.1.2.15
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Improved the settings selection logic</mark>
+
+### Version 0.1.2.16
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+
+### Version 0.1.2.17
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+
+### Version 0.1.2.18
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+
+### Version 0.1.2.19
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Addon packaging is now more consistent</mark>

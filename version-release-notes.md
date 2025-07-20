@@ -145,3 +145,15 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">Addon packaging is now more consistent</mark>
+
+### Version 0.1.2.20
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements and bug fixes</mark>
+
+### Version 0.1.2.21
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements and bug fixes</mark>

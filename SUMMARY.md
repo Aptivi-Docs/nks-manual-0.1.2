@@ -172,6 +172,7 @@
       * [RNG Drivers](advanced-and-power-users/inner-workings/inner-essentials/kernel-drivers/rng-drivers.md)
       * [Regular Expression Drivers](advanced-and-power-users/inner-workings/inner-essentials/kernel-drivers/regular-expression-drivers.md)
       * [Sorting Drivers](advanced-and-power-users/inner-workings/inner-essentials/kernel-drivers/sorting-drivers.md)
+    * [Shell Structure](advanced-and-power-users/inner-workings/inner-essentials/shell-structure.md)
     * [Kernel Placeholders](advanced-and-power-users/inner-workings/inner-essentials/kernel-placeholders.md)
     * [The Permissions](advanced-and-power-users/inner-workings/inner-essentials/the-permissions.md)
     * [The Users](advanced-and-power-users/inner-workings/inner-essentials/the-users.md)

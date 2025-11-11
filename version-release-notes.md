@@ -177,3 +177,15 @@ The following changes have been made:
 * <mark style="color:yellow;">Updated to Terminaux 7.0</mark>
 * <mark style="color:yellow;">Fixed splash closing</mark>
 * <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.2.26 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.2.27 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">General improvements</mark>

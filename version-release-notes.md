@@ -189,3 +189,29 @@ The following changes have been made:
 The following changes have been made:
 
 * <mark style="color:yellow;">General improvements</mark>
+
+### Version 0.1.2.28 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Support window date changed to align with recent decisions</mark>
+
+### Version 0.1.2.30 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Migrated the framework to .NET 10.0</mark>
+* <mark style="color:yellow;">Fixed unit tests being stuck due to the splash screen function</mark>
+* <mark style="color:yellow;">Fixed some TUIs not starting</mark>
+
+### Version 0.1.2.31 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated BassBoom, Terminaux, SpecProbe, and Magico</mark>
+
+### Version 0.1.2.32 <a href="#version-0.1.2.25" id="version-0.1.2.25"></a>
+
+The following changes have been made:
+
+* <mark style="color:yellow;">Updated Terminaux</mark>
